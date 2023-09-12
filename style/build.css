@@ -15,4 +15,8 @@ border-style: outet;
 color: grey;
 background-color: white;
 }
+ul {
+font-size: 20px;
+list-style-type: none;
+  }
 
