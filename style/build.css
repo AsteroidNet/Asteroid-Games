@@ -1,14 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@200&display=swap');
 
 body {
-background: linear-gradient('to bottom right, #FF5F1F, #5cd65c');
+background: radial-gradient(#301934, #000000);
 background-repeat:no-repeat;
 font-family: 'Exo 2', sans-serif;
-color: white;
 background-attachment: fixed;
 }
 h1 {
 font-size: 20px
+color: white;
+background-color: #301934;
+border-radius: 50px;
 }
 search {
 border-style: solid #ff471a 10px;
