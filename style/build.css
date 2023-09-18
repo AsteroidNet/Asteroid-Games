@@ -22,7 +22,7 @@ ul {
 font-size: 20px;
 list-style-type: none;
   }
-top-nav {
+nav {
 width: 99vh;
 height: 70px;
 background-color: #301934;
@@ -31,7 +31,7 @@ position: absolute;
 border-radius: 50px;
 object-align: center;
 }
-top-nav .img {
+nav .img {
 width: 10px;
 height: 10px;
 }
