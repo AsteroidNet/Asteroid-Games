@@ -7,6 +7,7 @@ font-family: 'Exo 2', sans-serif;
 background-attachment: fixed;
 }
 h1 {
+text-align: center;
 font-size: 20px
 color: white;
 background-color: #301934;
@@ -21,4 +22,19 @@ ul {
 font-size: 20px;
 list-style-type: none;
   }
+top-nav {
+width: 99vh;
+height: 70px;
+background-color: #301934;
+top: 10px;
+position: absolute;
+border-radius: 50px;
+object-align: center;
+}
+top-nav .img {
+width: 10px;
+height: 10px;
+}
+  
+  
 
