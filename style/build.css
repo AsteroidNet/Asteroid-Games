@@ -35,6 +35,12 @@ nav .img {
 width: 10px;
 height: 10px;
 }
-  
+p {
+text-align: center;
+font-size: 15px
+color: white;
+background-color: #301934;
+border-radius: 50px;
+}
   
 
