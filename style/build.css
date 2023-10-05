@@ -1,25 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@200&display=swap');
 
 body {
-background: radial-gradient(#301934, #000000);
+background: linear-gradient(from right to left, #C33764, #1D2671);
 background-repeat:no-repeat;
 font-family: 'Exo 2', sans-serif;
 background-attachment: fixed;
 }
 h1 {
-height: 55px;
-width: 300px;
 text-align: center;
 font-size: 50px;
 color: #ffffff;
-background-color: #301934;
+background: multi-point(#FF5F6D, #FFC371);
 border-radius: 50px;
-
-}
-search {
-border-style: solid #ff471a 10px;
-color: grey;
-background-color: white;
 }
 ul {
 font-size: 20px;
@@ -34,11 +26,8 @@ position: absolute;
 border-radius: 50px;
 object-align: center;
 }
-.nav img {
-width: 10px;
-height: 10px;
-}
-p {
+
+.nav btn {
 text-align: center;
 font-size: 40px;
 color: #ffffff;
